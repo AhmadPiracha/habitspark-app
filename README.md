@@ -31,5 +31,5 @@ A feature-rich, frontend-only habit tracking application built with React. Track
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/habit-tracker.git
-cd habit-tracker
+git clone git@github.com:AhmadPiracha/habitspark-app.git
+cd habitspark-app
